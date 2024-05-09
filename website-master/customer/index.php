@@ -80,10 +80,10 @@
                                  <a class="nav-link" href="products.html">Products</a>
                               </li>
                               <li class="nav-item d_none">
-                                 <a class="nav-link" href="../admin/index.php">Login</a>
+                                 <a class="nav-link" href="../customer/login/login.php">Login</a>
                               </li>
                               <li class="nav-item d_none">
-                                 <a class="nav-link" href="register.php">Register</a>
+                              <a class="nav-link" href="../customer/register/colorlib-regform-7/register.html">Register</a>
                               </li>
                               <li class="nav-item d_none">
                                  <a class="nav-link" href="mycart.php"><i class="fa fa-cart-arrow-down" style="font-size:30px" aria-hidden="true"></i></a>
@@ -379,6 +379,7 @@
       <script src="js/popper.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
       <script src="js/jquery-3.0.0.min.js"></script>
+
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
